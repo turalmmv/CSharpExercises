@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.exe
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.deps.json
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.runtimeconfig.json
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.runtimeconfig.dev.json
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.dll
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\bin\Debug\netcoreapp3.1\ZencirvariKesrler.pdb
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.AssemblyInfo.cs
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.dll
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.pdb
+C:\Users\user\source\repos\ZencirvariKesrler\ZencirvariKesrler\obj\Debug\netcoreapp3.1\ZencirvariKesrler.genruntimeconfig.cache
